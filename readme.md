@@ -54,6 +54,7 @@ Uniswap has 2 major features known as Swap and Pool:
 
 <br>
 <br>
+
 * Who are the projects intended users?  Is there any information about the market size of this set of customers?
 
 Small traders are Uniswap’s intended users. 
