@@ -10,15 +10,15 @@
 
 * How did the idea for the project come about and how was it funded? 
 
-        Uniswap is a protocol for decentralized exchange of crypto currencies. Uniswap was founded by Hayden Adams. Inspired by Vitalik Buterin's [reddit post](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) a few years ago, Hayden attempted to get his hands dirty to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool as opposed to counter party order books typically seen on centralized exchanges.
+Uniswap is a protocol for decentralized exchange of crypto currencies. Uniswap was founded by Hayden Adams. Inspired by Vitalik Buterin's [reddit post](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) a few years ago, Hayden attempted to get his hands dirty to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool as opposed to counter party order books typically seen on centralized exchanges.
 
-        Subsequently Hayden received a grant from Ethereum foundation to continue his work to full-fledged Decentralized Exchange (DEX) platform which is now Uniswap. 
+Subsequently Hayden received a grant from Ethereum foundation to continue his work to full-fledged Decentralized Exchange (DEX) platform which is now Uniswap. 
 
-        Uniswap consists of a set of smart contracts deployed on Ethereum network. That means entire process takes place on-chain and there is no centralization, and no fees going to any of the founders or third parties.
+Uniswap consists of a set of smart contracts deployed on Ethereum network. That means entire process takes place on-chain and there is no centralization, and no fees going to any of the founders or third parties.
 
-        Uniswap was *funded* by Ethereum foundation, investments from  venture capital firms including Andreessen Horowitz, Paradigm Venture Capital, Union Square Ventures LLC and ParaFi.
+Uniswap was *funded* by Ethereum foundation, investments from  venture capital firms including Andreessen Horowitz, Paradigm Venture Capital, Union Square Ventures LLC and ParaFi.
 
-        Hayden received ~$11M series-A funding.
+Hayden received ~$11M series-A funding.
 
 
 ## Business Activities:
@@ -45,12 +45,14 @@ Uniswap has 2 major features known as Swap and Pool:
 - Swap: allows users to swap between different ERC-20 tokens.
 - Pool: allows users to earn by providing liquidity. This is done by depositing tokens into a smart contract and the depositor will receive pool tokens in return. 
 
-## Few advantages of Uniswap
+### Few advantages of Uniswap
 **Self-custodial:** Traders retain full custody of their funds through crypto wallet such as meta mask. This mitigates the risk of losing funds if the exchange is hacked. 
 
 **No Know Your Customer (KYC):** Uniswap allows self-custody of funds and that allows them to skip KYC. Users do not need to disclose sensitive personal information. This allows faster use of the platform and reduces the chances of hacking personal information. 
 
 **Access to new coins:** New crypto currencies or tokens are listed in Uniswap faster than centralized exchanges because of the absence of vetting process with the exchange before the token is listed for trading. 
+
+
 
 
 * Who are the projects intended users?  Is there any information about the market size of this set of customers?
@@ -60,27 +62,29 @@ Uniswap’s current Market cap $22B
 24 hours trading volume ~$2.3B, captured 16% of DEX market share
 
 
+
+
 * What solution does this project offer that competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-###Liquidity provision###
+**Liquidity provision**
 Uniswap is the go-to platform to earn fees by providing liquidity. Other DEX may provide higher liquidity fees, but those are often for pools with volatile tokens.
 
-###First mover advantage and network effect###
+**First mover advantage and network effect**
 Uniswap is the standard for automated market makers and now a household name in DeFi.
 
-###Liquidity###
+**Liquidity**
 Uniswap is known for it’s high liquidity among it’s peers. Uniswap platform is the go-to choice for many crypto launchpads and new tokens. 
 
-###Trading volume###
+**Trading volume**
 Uniswap’s 24-hour trading volume has been in the range of $2B to $3B. This was highest among all DEXs.  Pancakeswap recently surpassed Uniswap’s trading volume. But with the improvement in Ethereum block chain, Uniswap is expected to regain its dominance.
 
-###Diversity of tokens###
+**Diversity of tokens**
 Uniswap offers many more tokens than its competitors. This is primarily because of mainstream adoption of Ethereum, DeFi and ERC-20 tokens. Important to highligh that there are few tokens that are not available in Uniswap but available in other DEXs. Examples are tokens based on Binance Smart Chain.
 
-###Ease of use###
+**Ease of use**
 Uniswap has a simple, intuitive, sleek and easy to use user interface.
 
-###Community###
+**Community**
 Uniswap has far bigger community than any of the other DEXs. Thanks to it’s network effect and Ethereum’s adoption. Uniswap's model has been copied by many. But, still very few DEX can compete with Uniswap. 
 
 Uniswap is tried and tested. This platform offers many advatnages over others. However, gas fee on Uniswap is one of the major problem of the platform that is driving it’s users to other platforms such as PancakeSwap. With ETH2.0 launch on the horizon, transactions should be faster and cheaper. 
@@ -103,6 +107,7 @@ Uniswap uses **Infura** to query information and fetch data like token swap rate
 * What domain of the financial industry is the company in?
 
 Uniswap is in the field of Crypto trading.
+
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -156,14 +161,13 @@ Daily trading volumes hit USD2.19 billion on October 26th, 2020 - which was a ne
 
 ## Recommendations
 
-* If you were to advise the project, what products or services would you suggest they offer? 
-
 Uniswap has lost some ground to it’s competitors such as PancakeSwap because of high gas fee and network congestion resulting slower transaction. Many DEXs are coming up on different layer-1 and layer-2 blockchains with lightning speed and a fraction of Uniswap’s gas fee.
 Uniswap is built on Ethereum blockchain. Reason of higher gas fee and latency is rooted in Ethereum, which is going to solve in Ethereum-V2 but that will take some time. Meanwhile Uniswap should focus on some intermediate solution to improve latency and reduce gas fee.
 
 This will also solve transaction failure rates. Today users need to pay gas fee even if transaction fails. 
 
 Uniswap competition offers add-on features such as staking and farming. This is taking away Uniswap users to those innovative DEX platforms. Uniswap should focus on how they can add more value to their users to retain user base and stay competitive. 
+
 
 ## Acknowledgement and resources
 [Uniswap Birthday Blog by Hayden Adams](https://medium.com/uniswap/uniswap-birthday-blog-v0-7a91f3f6a1ba)
