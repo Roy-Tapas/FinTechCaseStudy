@@ -72,24 +72,25 @@ Uniswap is the go-to platform to earn fees by providing liquidity. Other DEX may
 **First mover advantage and network effect**\
 Uniswap is the standard for automated market makers and now a household name in DeFi.
 
-**Liquidity**
+**Liquidity**\
 Uniswap is known for it’s high liquidity among it’s peers. Uniswap platform is the go-to choice for many crypto launchpads and new tokens. 
 
-**Trading volume**
+**Trading volume**\
 Uniswap’s 24-hour trading volume has been in the range of $2B to $3B. This was highest among all DEXs.  Pancakeswap recently surpassed Uniswap’s trading volume. But with the improvement in Ethereum block chain, Uniswap is expected to regain its dominance.
 
-**Diversity of tokens**
+**Diversity of tokens**\
 Uniswap offers many more tokens than its competitors. This is primarily because of mainstream adoption of Ethereum, DeFi and ERC-20 tokens. Important to highligh that there are few tokens that are not available in Uniswap but available in other DEXs. Examples are tokens based on Binance Smart Chain.
 
-**Ease of use**
+**Ease of use**\
 Uniswap has a simple, intuitive, sleek and easy to use user interface.
 
-**Community**
+**Community**\
 Uniswap has far bigger community than any of the other DEXs. Thanks to it’s network effect and Ethereum’s adoption. Uniswap's model has been copied by many. But, still very few DEX can compete with Uniswap. 
 
 Uniswap is tried and tested. This platform offers many advatnages over others. However, gas fee on Uniswap is one of the major problem of the platform that is driving it’s users to other platforms such as PancakeSwap. With ETH2.0 launch on the horizon, transactions should be faster and cheaper. 
 
-
+\
+\
 * Which technologies are they currently using, and how are they implementing them? 
 
 Uniswap uses distributed computing that runs on Ethereum blockchain.
@@ -101,14 +102,16 @@ Uniswap uses **Infura** to query information and fetch data like token swap rate
 
 **Infura** is a method of connecting off-chain apps, such as Uniswap interface to Ethereum block chain.
 
-
+\
+\
 ## Landscape:
 
 * What domain of the financial industry is the company in?
 
 Uniswap is in the field of Crypto trading.
 
-
+\
+\
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 **Uniswap v1** was first launched on the Ethereum mainnet in November 2018. Uniswap became the first DEX based on Automated Market Maker (AMM) model. This model is based on a mathematical formula (instead of order books) to determine the price of tokens under swap. 
@@ -126,8 +129,8 @@ Uniswap is in the field of Crypto trading.
 
 <img src="https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png" width="300" height="300">
 
-
-
+/
+/
 * What are the other major projects in this domain?
 
 **iInch:** a DEX aggregator offering best crypto price across DEXs
@@ -136,7 +139,8 @@ Uniswap is in the field of Crypto trading.
 
 **Pancackeswap** Binance Smart Chain-based DEX, similar to SushiSwap but incorporates many other features such as farming and staking.
 
-
+/
+/
 
 ## Results
 
@@ -158,7 +162,8 @@ Daily trading volumes hit USD2.19 billion on October 26th, 2020 - which was a ne
 <img src="https://images.ctfassets.net/sdlntm3tthp6/mzzYgEZeVOU4bn73F6dIl/2fba2dc8afde180e6503b51322d85808/Best_Decentralized_Crypto_Exchange_4-min.jpg?w=650">
 
 
-
+/
+/
 ## Recommendations
 
 Uniswap has lost some ground to it’s competitors such as PancakeSwap because of high gas fee and network congestion resulting slower transaction. Many DEXs are coming up on different layer-1 and layer-2 blockchains with lightning speed and a fraction of Uniswap’s gas fee.
@@ -168,7 +173,8 @@ This will also solve transaction failure rates. Today users need to pay gas fee 
 
 Uniswap competition offers add-on features such as staking and farming. This is taking away Uniswap users to those innovative DEX platforms. Uniswap should focus on how they can add more value to their users to retain user base and stay competitive. 
 
-
+/
+/
 ## Acknowledgement and resources
 [Uniswap Birthday Blog by Hayden Adams](https://medium.com/uniswap/uniswap-birthday-blog-v0-7a91f3f6a1ba)
 
@@ -183,7 +189,7 @@ Uniswap competition offers add-on features such as staking and farming. This is 
 [Dune analytics - Uniswap DEX tracker](https://duneanalytics.com/datanut/Uniswap-DEX-Tracker)
 
 [Uniswap — A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
-[DeFi disruptors: An intro to DeFi and Uniswap’s automated market making](https://www.ledgerinsights.com/defi-disruptors-defi-intro-uniswap-automated-market-making/)
+
 
 
 <hr style="border:2px solid blue"> </hr>
