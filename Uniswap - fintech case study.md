@@ -174,7 +174,8 @@ Uniswap competition offers add-on features such as staking and farming. This is 
 [Dune analytics - Uniswap DEX tracker](https://duneanalytics.com/datanut/Uniswap-DEX-Tracker)
 [Uniswap — A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
 
-#
+
+<hr style="border:2px solid blue"> </hr>
 ## Tapas Roy
 
 **Email:** rtapask@gmail.com
