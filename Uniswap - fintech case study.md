@@ -119,18 +119,7 @@ Uniswap is in the field of Crypto trading.
 
 **Uniswap V3** slated to launch in May is going to introduce an array of new features.
 
-<img src="https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png" width="250" height="250">
-
-![](https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png =250x250)
-
--	concentrated liquidity
--	capital efficiency
--	active liquidity
--	range orders
--	non-fungible liquidity
--	flexible fees and 
--	a license to use v3 code
-
+<img src="https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png" width="300" height="300">
 
 
 * What are the other major companies in this domain?
