@@ -123,7 +123,7 @@ Uniswap is in the field of Crypto trading.
 
 
 
-* What are the other major companies in this domain?
+* What are the other major projects in this domain?
 
 **iInch:** a DEX aggregator offering best crypto price across DEXs
 
@@ -132,35 +132,32 @@ Uniswap is in the field of Crypto trading.
 **Pancackeswap** Binance Smart Chain-based DEX, similar to SushiSwap but incorporates many other features such as farming and staking.
 
 
+
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this project so far?
 
-Recent DeFi boom has made Uniswap the most sought-after trading platform in the niche sector of digital assets. 
-Uniswap has been the main driver for the rising prominence of decentralized exchanges and the catalyst for Decentralized Finance.
+Recent DeFi boom has made Uniswap the most sought-after trading platform in the niche sector of digital assets. Uniswap has been the main driver for the rising prominence of decentralized exchanges and the catalyst for Decentralized Finance.
 
 Uniswap is a great example of a non-custodial AMM. Users trade against the pooler assets - liquidity available in a smart contract, as opposed to with a counterparty as they would in traditional order book-based exchanges. They are the pioneer in blockchain based DEXs. 
 
 Number of users grew exponentially over the years following the famous “hockey-stick” growth.
-https://miro.medium.com/max/1050/1*45S2M9peYH5t_tZ6vmGsnw.png
+<img src="https://miro.medium.com/max/1050/1*45S2M9peYH5t_tZ6vmGsnw.png" width="300" height="300">
 
 Daily trading volumes hit USD2.19 billion on October 26th, 2020 - which was a new all time high for the platform exceeding popular centralized exchanges such as Bittrex, FTX, and Bithumb and very close to the trading volume of Coinbase.
 
+<img src="https://images.ctfassets.net/sdlntm3tthp6/2qVqWxCemBdLFJ7wBBoFWB/d1db1fcc435bc0fff18b5e71c17aa93f/Best_Decentralized_Crypto_Exchange_1__2_.jpg?w=650" width="300" height="300">
 
-https://images.ctfassets.net/sdlntm3tthp6/2qVqWxCemBdLFJ7wBBoFWB/d1db1fcc435bc0fff18b5e71c17aa93f/Best_Decentralized_Crypto_Exchange_1__2_.jpg?w=650
-
-https://images.ctfassets.net/sdlntm3tthp6/mzzYgEZeVOU4bn73F6dIl/2fba2dc8afde180e6503b51322d85808/Best_Decentralized_Crypto_Exchange_4-min.jpg?w=650
-
-
+<img src="https://images.ctfassets.net/sdlntm3tthp6/mzzYgEZeVOU4bn73F6dIl/2fba2dc8afde180e6503b51322d85808/Best_Decentralized_Crypto_Exchange_4-min.jpg?w=650" width="300" height="300">
 
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the project, what products or services would you suggest they offer? 
 
 Uniswap has lost some ground to it’s competitors such as PancakeSwap because of high gas fee and network congestion resulting slower transaction. Many DEXs are coming up on different layer-1 and layer-2 blockchains with lightning speed and a fraction of Uniswap’s gas fee.
-Uniswap is built on Ethereum blockchain. Reason of higher gas fee and latency is rooted on Ethereum, which is going to solve in Ethereum V2 but that will take some time. Meanwhile Uniswap should focus on some intermediate solution to improve latency and reduce gas fee.
+Uniswap is built on Ethereum blockchain. Reason of higher gas fee and latency is rooted in Ethereum, which is going to solve in Ethereum-V2 but that will take some time. Meanwhile Uniswap should focus on some intermediate solution to improve latency and reduce gas fee.
 
 This will also solve transaction failure rates. Today users need to pay gas fee even if transaction fails. 
 
