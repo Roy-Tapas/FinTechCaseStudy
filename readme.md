@@ -52,8 +52,8 @@ Uniswap has 2 major features known as Swap and Pool:
 
 **Access to new coins:** New crypto currencies or tokens are listed in Uniswap faster than centralized exchanges because of the absence of vetting process with the exchange before the token is listed for trading. 
 
-/
-/
+<br>
+<br>
 * Who are the projects intended users?  Is there any information about the market size of this set of customers?
 
 Small traders are Uniswap’s intended users. 
