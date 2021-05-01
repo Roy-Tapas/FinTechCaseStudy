@@ -39,7 +39,7 @@ Uniswap is developed for the community to trade tokens without platform fee and 
 
 
 
-### Features of Uniswap
+#### Features of Uniswap
 
 Uniswal has 2 major features known as Swap and Pool:
 - Swap: allows users to swap between Ethereum (ETH) and different ERC-20 tokens.
