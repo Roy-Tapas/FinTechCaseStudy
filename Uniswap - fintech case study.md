@@ -39,83 +39,86 @@ Uniswap is developed for the community to trade tokens without platform fee and 
 
 
 
-#### Features of Uniswap
+### Features of Uniswap:
 
-Uniswal has 2 major features known as Swap and Pool:
-- Swap: allows users to swap between Ethereum (ETH) and different ERC-20 tokens.
-- Pool: allows users to earn by providing liquidity. This is done by depositing tokens into a smart contract and the depositor will receive pool tokens in return.
+Uniswap has 2 major features known as Swap and Pool:
+- Swap: allows users to swap between different ERC-20 tokens.
+- Pool: allows users to earn by providing liquidity. This is done by depositing tokens into a smart contract and the depositor will receive pool tokens in return. 
 
-* Advantages of Uniswap
-Self-custodial: Traders retain full custody of their funds through crypto wallet such as meta mask. This mitigates the risk of losing funds if the exchange is hacked. 
-No Know Your Customer (KYC): Uniswap allows self-custody of funds. That allows them to skip KYC. Users do not need to disclose sensitive personal information. This allows faster use of the platform, reduces the chances of hacking personal information. 
-Access to new coins: New coins are listed in Uniswap faster than centralized exchanges because of absence of vetting process with the exchange before the token is listed for trading. 
+## Few advantages of Uniswap
+**Self-custodial:** Traders retain full custody of their funds through crypto wallet such as meta mask. This mitigates the risk of losing funds if the exchange is hacked. 
 
+**No Know Your Customer (KYC):** Uniswap allows self-custody of funds and that allows them to skip KYC. Users do not need to disclose sensitive personal information. This allows faster use of the platform and reduces the chances of hacking personal information. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
-Small traders are Uniswap’s intended customers. 
-Uniswap’s current Market cap $22B (16% of DEX market share)
-Daily trading vol $2.3B
+**Access to new coins:** New crypto currencies or tokens are listed in Uniswap faster than centralized exchanges because of the absence of vetting process with the exchange before the token is listed for trading. 
 
 
+* Who are the projects intended users?  Is there any information about the market size of this set of customers?
 
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Small traders are Uniswap’s intended users. 
+Uniswap’s current Market cap $22B 
+24 hours trading volume ~$2.3B, captured 16% of DEX market share
 
-Liquidity provision:
-Uniswap is the go-to platform to earn fees by providing liquidity. Other DEX may provide higher liquidity fees, but they are often for pools with volatile tokens.
 
-First mover advantage and network effect
+* What solution does this project offer that competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+###Liquidity provision###
+Uniswap is the go-to platform to earn fees by providing liquidity. Other DEX may provide higher liquidity fees, but those are often for pools with volatile tokens.
+
+###First mover advantage and network effect###
 Uniswap is the standard for automated market makers and now a household name in DeFi.
-Liquidity
+
+###Liquidity###
 Uniswap is known for it’s high liquidity among it’s peers. Uniswap platform is the go-to choice for many crypto launchpads and new tokens. 
-Trading volume
-Uniswap’s 24-hour trading volume has been in the range of $2B to $3B. This was highest among all DEXs. Recently Pancakeswap recently surpassed Uniswap’s trading volume. But with the improvement in Ethereum block chain, Uniswap is expected to regain it’s glory.
-Diversity of tokens:
-Uniswap offers many more tokens among all DEXs. This is primarily because of adoption of Ethereum and ERC-20 tokens. There are few tokens that are not available in Uniswap but available in other DEXs.
-Ease of use:
-Uniswap has a simple, intuitive and easy to use user interface.
-Community:
-Uniswap has far bigger community than any of the other exchanges. Thanks to it’s network effect and Ethereum’s adoption. Uniswap has been copied by many. But, still very few DEX can compete with Uniswap. 
-Uniswap is tried and tested. This platform offers many advatnages over others. However, gas fee on Uniswap is one of the major bottleneck of the platform that is driving it’s users to other platforms such as PancakeSwap. With ETH2.0 transactions will be faster and gas fee will be more competitive. 
+
+###Trading volume###
+Uniswap’s 24-hour trading volume has been in the range of $2B to $3B. This was highest among all DEXs.  Pancakeswap recently surpassed Uniswap’s trading volume. But with the improvement in Ethereum block chain, Uniswap is expected to regain its dominance.
+
+###Diversity of tokens###
+Uniswap offers many more tokens than its competitors. This is primarily because of mainstream adoption of Ethereum, DeFi and ERC-20 tokens. Important to highligh that there are few tokens that are not available in Uniswap but available in other DEXs. Examples are tokens based on Binance Smart Chain.
+
+###Ease of use###
+Uniswap has a simple, intuitive, sleek and easy to use user interface.
+
+###Community###
+Uniswap has far bigger community than any of the other DEXs. Thanks to it’s network effect and Ethereum’s adoption. Uniswap's model has been copied by many. But, still very few DEX can compete with Uniswap. 
+
+Uniswap is tried and tested. This platform offers many advatnages over others. However, gas fee on Uniswap is one of the major problem of the platform that is driving it’s users to other platforms such as PancakeSwap. With ETH2.0 launch on the horizon, transactions should be faster and cheaper. 
 
 
-
-
-
-
-
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? 
 
 Uniswap uses distributed computing that runs on Ethereum blockchain.
 Responsive and intuitive frontend interface is built in React Native (type of JavaScript) 
 
 Uniswap interface allows users to trade (swap) tokens, add liquidity, and create new pools. Under the hood, Uniswap pulls an array of information from smart contracts on the Ethereum blockchain to feed into the interface and populate data such as pricing between pairs, user balances, and swap rates.
 
-Uniswap uses Infura to query information and fetch data like token swap rates, token balances, and other information from the Uniswap smart contracts. 
+Uniswap uses **Infura** to query information and fetch data like token swap rates, token balances, and other information from the Uniswap smart contracts. 
 
-Infura is a method of connecting off-chain apps, such as Uniswap interface to Ethereum block chain.
+**Infura** is a method of connecting off-chain apps, such as Uniswap interface to Ethereum block chain.
+
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
 
-Uniswap is in the field of Crypto trading by providing guaranteed liquidity.
+Uniswap is in the field of Crypto trading.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-Uniswap v1 was first launched on the Ethereum mainnet on November2, 2018. Uniswap became the first DEX based on Automated Market Maker (AMM) model. This model is based on a mathematical formula (instead of order books) to determine the price of tokens. 
+**Uniswap v1** was first launched on the Ethereum mainnet in November 2018. Uniswap became the first DEX based on Automated Market Maker (AMM) model. This model is based on a mathematical formula (instead of order books) to determine the price of tokens under swap. 
 
-Uniswal v1 was proof of concept that came with huge promise. A better version Uniswal v2 was launched in May 2020. Major improvements are the following:
+**Uniswap V2** Uniswal v1 was proof of concept that came with a huge promise. A better version Uniswap v2 was launched in May 2020. Major improvements are the following:
 -	Much better and user-friendly interface
--	ERC20-ERC20 liquidity token pools to solve “ETH bridging” problem. Meaning users can swap one ERC20 token to another ERC20 token without one ERC20 token to ETH first and then to another ERC20 token.
+-	ERC20-ERC20 liquidity token pools to solve “ETH bridging” problem. Meaning users can swap one ERC20 token to another ERC20 token without ERC20 token to ETH first and then to another ERC20 token.
 -	Integration with Oracle solution to get on-chain price feeds thus preventing price manipulation.
 -	Introduction of flash swaps allowing users to withdraw as much as they wanted of any ERC20 token on Uniswap at no upfront cost as long as any of the following conditions is met:
-o	Pay for tokens withdrawn
-o	Pay for a percentage of token and return the rest
-o	Return all tokens withdrawn  
+1. Pay for tokens withdrawn
+2. Pay for a percentage of token and return the rest
+3. Return all tokens withdrawn  
 
-Uniswap v3 is slated to launch in May is going to introduce an array of new features.
+**Uniswap V3** slated to launch in May is going to introduce an array of new features.
+(https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png)
 -	concentrated liquidity
 -	capital efficiency
 -	active liquidity
@@ -123,7 +126,7 @@ Uniswap v3 is slated to launch in May is going to introduce an array of new feat
 -	non-fungible liquidity
 -	flexible fees and 
 -	a license to use v3 code
-https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png
+
 
 
 * What are the other major companies in this domain?
