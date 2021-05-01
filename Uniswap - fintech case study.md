@@ -40,10 +40,12 @@ Uniswap is developed for the community to trade tokens without platform fee and 
 
 
 * Features of Uniswap
+
 Uniswal has 2 major features known as Swap and Pool:
-Swap: allows users to swap between Ethereum (ETH) and different ERC-20 tokens.
-Pool: allows users to earn by providing liquidity. This is done by depositing tokens into a smart contract and the depositor will receive pool tokens in return.
-Advantages of Uniswap
+- Swap: allows users to swap between Ethereum (ETH) and different ERC-20 tokens.
+- Pool: allows users to earn by providing liquidity. This is done by depositing tokens into a smart contract and the depositor will receive pool tokens in return.
+
+* Advantages of Uniswap
 Self-custodial: Traders retain full custody of their funds through crypto wallet such as meta mask. This mitigates the risk of losing funds if the exchange is hacked. 
 No Know Your Customer (KYC): Uniswap allows self-custody of funds. That allows them to skip KYC. Users do not need to disclose sensitive personal information. This allows faster use of the platform, reduces the chances of hacking personal information. 
 Access to new coins: New coins are listed in Uniswap faster than centralized exchanges because of absence of vetting process with the exchange before the token is listed for trading. 
