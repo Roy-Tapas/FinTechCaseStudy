@@ -1,4 +1,6 @@
-# Uniswap - A FINTECH CASE STUDY
+# UNISWAP - A FINTECH CASE STUDY
+
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ledgerinsights.com%2Fwp-content%2Fuploads%2F2020%2F09%2Fdefi-disruptor-uniswap.jpg&imgrefurl=https%3A%2F%2Fledgerinsights.com%2Fdefi-disruptors-defi-intro-uniswap-automated-market-making%2F&tbnid=rN9pl-H7NtoTaM&vet=12ahUKEwivjcyvvKnwAhV1B50JHb2eA14QMygJegUIARDLAQ..i&docid=5Ov48DRrT2VmFM&w=850&h=486&q=uniswap&ved=2ahUKEwivjcyvvKnwAhV1B50JHb2eA14QMygJegUIARDLAQ)
 
 ## Overview and Origin
 
