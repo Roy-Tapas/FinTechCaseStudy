@@ -1,5 +1,5 @@
 # UNISWAP - A FINTECH CASE STUDY
-![](https://www.ledgerinsights.com/wp-content/uploads/2020/09/defi-disruptor-uniswap.jpg)
+
 ## Overview and Origin
 
 * Name of project: **UNISWAP**
@@ -10,15 +10,15 @@
 
 * How did the idea for the project come about and how was it funded? 
 
-Uniswap is a protocol for decentralized exchange of crypto currencies. Uniswap was founded by Hayden Adams. Inspired by Vitalik Buterin's [reddit post](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) a few years ago, Hayden attempted to get his hands dirty to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool as opposed to counter party order books typically seen on centralized exchanges.
+        Uniswap is a protocol for decentralized exchange of crypto currencies. Uniswap was founded by Hayden Adams. Inspired by Vitalik Buterin's [reddit post](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) a few years ago, Hayden attempted to get his hands dirty to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool as opposed to counter party order books typically seen on centralized exchanges.
 
-Subsequently Hayden received a grant from Ethereum foundation to continue his work to full-fledged Decentralized Exchange (DEX) platform which is now Uniswap. 
+        Subsequently Hayden received a grant from Ethereum foundation to continue his work to full-fledged Decentralized Exchange (DEX) platform which is now Uniswap. 
 
-Uniswap consists of a set of smart contracts deployed on Ethereum network. That means entire process takes place on-chain and there is no centralization, and no fees going to any of the founders or third parties.
+        Uniswap consists of a set of smart contracts deployed on Ethereum network. That means entire process takes place on-chain and there is no centralization, and no fees going to any of the founders or third parties.
 
-Uniswap was *funded* by Ethereum foundation, investments from  venture capital firms including Andreessen Horowitz, Paradigm Venture Capital, Union Square Ventures LLC and ParaFi.
+        Uniswap was *funded* by Ethereum foundation, investments from  venture capital firms including Andreessen Horowitz, Paradigm Venture Capital, Union Square Ventures LLC and ParaFi.
 
-Hayden received ~$11M series-A funding.
+        Hayden received ~$11M series-A funding.
 
 
 ## Business Activities:
@@ -179,6 +179,7 @@ Uniswap competition offers add-on features such as staking and farming. This is 
 [Dune analytics - Uniswap DEX tracker](https://duneanalytics.com/datanut/Uniswap-DEX-Tracker)
 
 [Uniswap — A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
+[DeFi disruptors: An intro to DeFi and Uniswap’s automated market making](https://www.ledgerinsights.com/defi-disruptors-defi-intro-uniswap-automated-market-making/)
 
 
 <hr style="border:2px solid blue"> </hr>
