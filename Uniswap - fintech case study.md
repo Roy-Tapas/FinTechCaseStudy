@@ -118,7 +118,7 @@ Uniswap is in the field of Crypto trading.
 3. Return all tokens withdrawn  
 
 **Uniswap V3** slated to launch in May is going to introduce an array of new features.
-![abc](https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png)
+![](https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png =250x250)
 -	concentrated liquidity
 -	capital efficiency
 -	active liquidity
