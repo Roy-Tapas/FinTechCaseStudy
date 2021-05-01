@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of project:* **UNISWAP**
+* Name of project: **UNISWAP**
 
 * When was the project launched? 2018
 
