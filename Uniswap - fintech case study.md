@@ -149,7 +149,8 @@ Daily trading volumes hit USD2.19 billion on October 26th, 2020 - which was a ne
 
 <img src="https://images.ctfassets.net/sdlntm3tthp6/2qVqWxCemBdLFJ7wBBoFWB/d1db1fcc435bc0fff18b5e71c17aa93f/Best_Decentralized_Crypto_Exchange_1__2_.jpg?w=650">
 
-<img src="https://images.ctfassets.net/sdlntm3tthp6/mzzYgEZeVOU4bn73F6dIl/2fba2dc8afde180e6503b51322d85808/Best_Decentralized_Crypto_Exchange_4-min.jpg?w=650" width="300" height="300">
+
+<img src="https://images.ctfassets.net/sdlntm3tthp6/mzzYgEZeVOU4bn73F6dIl/2fba2dc8afde180e6503b51322d85808/Best_Decentralized_Crypto_Exchange_4-min.jpg?w=650">
 
 
 
