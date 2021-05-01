@@ -142,11 +142,12 @@ Recent DeFi boom has made Uniswap the most sought-after trading platform in the 
 Uniswap is a great example of a non-custodial AMM. Users trade against the pooler assets - liquidity available in a smart contract, as opposed to with a counterparty as they would in traditional order book-based exchanges. They are the pioneer in blockchain based DEXs. 
 
 Number of users grew exponentially over the years following the famous “hockey-stick” growth.
-<img src="https://miro.medium.com/max/1050/1*45S2M9peYH5t_tZ6vmGsnw.png" width="300" height="300">
+
+<img src="https://miro.medium.com/max/1050/1*45S2M9peYH5t_tZ6vmGsnw.png">
 
 Daily trading volumes hit USD2.19 billion on October 26th, 2020 - which was a new all time high for the platform exceeding popular centralized exchanges such as Bittrex, FTX, and Bithumb and very close to the trading volume of Coinbase.
 
-<img src="https://images.ctfassets.net/sdlntm3tthp6/2qVqWxCemBdLFJ7wBBoFWB/d1db1fcc435bc0fff18b5e71c17aa93f/Best_Decentralized_Crypto_Exchange_1__2_.jpg?w=650" width="300" height="300">
+<img src="https://images.ctfassets.net/sdlntm3tthp6/2qVqWxCemBdLFJ7wBBoFWB/d1db1fcc435bc0fff18b5e71c17aa93f/Best_Decentralized_Crypto_Exchange_1__2_.jpg?w=650">
 
 <img src="https://images.ctfassets.net/sdlntm3tthp6/mzzYgEZeVOU4bn73F6dIl/2fba2dc8afde180e6503b51322d85808/Best_Decentralized_Crypto_Exchange_4-min.jpg?w=650" width="300" height="300">
 
