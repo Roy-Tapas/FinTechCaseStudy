@@ -164,3 +164,18 @@ Uniswap is built on Ethereum blockchain. Reason of higher gas fee and latency is
 This will also solve transaction failure rates. Today users need to pay gas fee even if transaction fails. 
 
 Uniswap competition offers add-on features such as staking and farming. This is taking away Uniswap users to those innovative DEX platforms. Uniswap should focus on how they can add more value to their users to retain user base and stay competitive. 
+
+## Acknowledgement and resources
+[Uniswap Birthday Blog by Hayden Adams](https://medium.com/uniswap/uniswap-birthday-blog-v0-7a91f3f6a1ba)
+[infura used by Uniswap to bridge to Ethereum](https://infura.io/customers/uniswap)
+[Uniswap leads 2021's best decentralized exchanges](https://bravenewcoin.com/insights/trading-volume-surges-on-decentralized-exchanges)
+[Uniswap series-A funding](https://www.crunchbase.com/organization/uniswap/company_financials)
+[Top Cryptocurrency Decentralized Exchanges](https://coinmarketcap.com/rankings/exchanges/dex/)
+[Dune analytics - Uniswap DEX tracker](https://duneanalytics.com/datanut/Uniswap-DEX-Tracker)
+[Uniswap — A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
+
+--
+## Tapas Roy
+
+**Email:** rtapask@gmail.com
+
