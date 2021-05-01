@@ -1,6 +1,6 @@
 # UNISWAP - A FINTECH CASE STUDY
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ledgerinsights.com%2Fwp-content%2Fuploads%2F2020%2F09%2Fdefi-disruptor-uniswap.jpg&imgrefurl=https%3A%2F%2Fledgerinsights.com%2Fdefi-disruptors-defi-intro-uniswap-automated-market-making%2F&tbnid=rN9pl-H7NtoTaM&vet=12ahUKEwivjcyvvKnwAhV1B50JHb2eA14QMygJegUIARDLAQ..i&docid=5Ov48DRrT2VmFM&w=850&h=486&q=uniswap&ved=2ahUKEwivjcyvvKnwAhV1B50JHb2eA14QMygJegUIARDLAQ">
+
 
 ## Overview and Origin
 
@@ -13,6 +13,8 @@
 * How did the idea for the project come about and how was it funded? 
 
 Uniswap is a protocol for decentralized exchange of crypto currencies. Uniswap was founded by Hayden Adams. Inspired by Vitalik Buterin's [reddit post](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) a few years ago, Hayden attempted to get his hands dirty to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool as opposed to counter party order books typically seen on centralized exchanges.
+
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ledgerinsights.com%2Fwp-content%2Fuploads%2F2020%2F09%2Fdefi-disruptor-uniswap.jpg&imgrefurl=https%3A%2F%2Fledgerinsights.com%2Fdefi-disruptors-defi-intro-uniswap-automated-market-making%2F&tbnid=rN9pl-H7NtoTaM&vet=12ahUKEwivjcyvvKnwAhV1B50JHb2eA14QMygJegUIARDLAQ..i&docid=5Ov48DRrT2VmFM&w=850&h=486&q=uniswap&ved=2ahUKEwivjcyvvKnwAhV1B50JHb2eA14QMygJegUIARDLAQ">
 
 Subsequently Hayden received a grant from Ethereum foundation to continue his work to full-fledged Decentralized Exchange (DEX) platform which is now Uniswap. 
 
