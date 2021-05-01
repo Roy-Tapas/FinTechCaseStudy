@@ -172,7 +172,7 @@ Uniswap competition offers add-on features such as staking and farming. This is 
 
 <br>
 
-## Acknowledgement and resources
+## Resources
 [Uniswap Birthday Blog by Hayden Adams](https://medium.com/uniswap/uniswap-birthday-blog-v0-7a91f3f6a1ba)
 
 [infura used by Uniswap to bridge to Ethereum](https://infura.io/customers/uniswap)
