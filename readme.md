@@ -66,10 +66,10 @@ Uniswap’s current Market cap $22B
 
 * What solution does this project offer that competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-**Liquidity provision**
+**Liquidity provision**\
 Uniswap is the go-to platform to earn fees by providing liquidity. Other DEX may provide higher liquidity fees, but those are often for pools with volatile tokens.
 
-**First mover advantage and network effect**
+**First mover advantage and network effect**\
 Uniswap is the standard for automated market makers and now a household name in DeFi.
 
 **Liquidity**
