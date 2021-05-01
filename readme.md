@@ -1,4 +1,4 @@
-# FINTECH CASE STUDY - Homework for Module-1 of Fintech Bootcamp
+# Uniswap - A FINTECH CASE STUDY
 
 ## Overview and Origin
 
