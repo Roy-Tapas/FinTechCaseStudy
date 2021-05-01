@@ -53,7 +53,6 @@ Uniswap has 2 major features known as Swap and Pool:
 **Access to new coins:** New crypto currencies or tokens are listed in Uniswap faster than centralized exchanges because of the absence of vetting process with the exchange before the token is listed for trading. 
 
 <br>
-<br>
 
 * Who are the projects intended users?  Is there any information about the market size of this set of customers?
 
@@ -61,8 +60,7 @@ Small traders are Uniswap’s intended users.
 Uniswap’s current Market cap $22B 
 24 hours trading volume ~$2.3B, captured 16% of DEX market share
 
-
-
+<br>
 
 * What solution does this project offer that competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -89,8 +87,8 @@ Uniswap has far bigger community than any of the other DEXs. Thanks to it’s ne
 
 Uniswap is tried and tested. This platform offers many advatnages over others. However, gas fee on Uniswap is one of the major problem of the platform that is driving it’s users to other platforms such as PancakeSwap. With ETH2.0 launch on the horizon, transactions should be faster and cheaper. 
 
-\
-\
+<br>
+
 * Which technologies are they currently using, and how are they implementing them? 
 
 Uniswap uses distributed computing that runs on Ethereum blockchain.
@@ -102,16 +100,16 @@ Uniswap uses **Infura** to query information and fetch data like token swap rate
 
 **Infura** is a method of connecting off-chain apps, such as Uniswap interface to Ethereum block chain.
 
-\
-\
+<br>
+
 ## Landscape:
 
 * What domain of the financial industry is the company in?
 
 Uniswap is in the field of Crypto trading.
 
-\
-\
+<br>
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 **Uniswap v1** was first launched on the Ethereum mainnet in November 2018. Uniswap became the first DEX based on Automated Market Maker (AMM) model. This model is based on a mathematical formula (instead of order books) to determine the price of tokens under swap. 
@@ -129,8 +127,8 @@ Uniswap is in the field of Crypto trading.
 
 <img src="https://miro.medium.com/max/965/1*gYBZE9EdBew2iBHNYQbQ0w.png" width="300" height="300">
 
-/
-/
+<br>
+
 * What are the other major projects in this domain?
 
 **iInch:** a DEX aggregator offering best crypto price across DEXs
@@ -139,8 +137,7 @@ Uniswap is in the field of Crypto trading.
 
 **Pancackeswap** Binance Smart Chain-based DEX, similar to SushiSwap but incorporates many other features such as farming and staking.
 
-/
-/
+<br>
 
 ## Results
 
@@ -162,8 +159,8 @@ Daily trading volumes hit USD2.19 billion on October 26th, 2020 - which was a ne
 <img src="https://images.ctfassets.net/sdlntm3tthp6/mzzYgEZeVOU4bn73F6dIl/2fba2dc8afde180e6503b51322d85808/Best_Decentralized_Crypto_Exchange_4-min.jpg?w=650">
 
 
-/
-/
+<br>
+
 ## Recommendations
 
 Uniswap has lost some ground to it’s competitors such as PancakeSwap because of high gas fee and network congestion resulting slower transaction. Many DEXs are coming up on different layer-1 and layer-2 blockchains with lightning speed and a fraction of Uniswap’s gas fee.
@@ -173,8 +170,8 @@ This will also solve transaction failure rates. Today users need to pay gas fee 
 
 Uniswap competition offers add-on features such as staking and farming. This is taking away Uniswap users to those innovative DEX platforms. Uniswap should focus on how they can add more value to their users to retain user base and stay competitive. 
 
-/
-/
+<br>
+
 ## Acknowledgement and resources
 [Uniswap Birthday Blog by Hayden Adams](https://medium.com/uniswap/uniswap-birthday-blog-v0-7a91f3f6a1ba)
 
