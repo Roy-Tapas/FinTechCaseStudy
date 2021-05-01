@@ -123,9 +123,10 @@ Uniswap is in the field of Crypto trading.
 
 
 * What are the other major companies in this domain?
-iInch: a DEX aggregator offering best crypto price across DEXs
-SushiSwap: A decentralized, community-owned, and community-run cryptocurrency exchange built on the Ethereum network
-Pancackeswap - Binance Smart Chain-based DEX, similar to SushiSwap but incorporates many other features such as farming, staking.
+
+**iInch:** a DEX aggregator offering best crypto price across DEXs
+**SushiSwap:** A decentralized, community-owned, and community-run cryptocurrency exchange built on the Ethereum network
+**Pancackeswap** Binance Smart Chain-based DEX, similar to SushiSwap but incorporates many other features such as farming and staking.
 
 
 ## Results
