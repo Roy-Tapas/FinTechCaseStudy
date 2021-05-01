@@ -6,43 +6,40 @@
 
 * When was the project launched? **2018**
 
-* Who are the founders of the company? **Hayden Adams**
+* Who are the founders of the project? **Hayden Adams**
 
-* How did the idea for the company (or project) come about and how was it funded? 
+* How did the idea for the project come about and how was it funded? 
 
-Uniswap is a protocol for decentralized exchange of crypto currencies. Uniswap was founded by Hayden Adams. Inspired by Vitalik Buterin's [reddit post](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) a few years ago, Hayden attempted to get his hands dirty to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool. This contrasts with the order books we typically see on centralized exchanges.
-Subsequently Hayden received a grant from Ethereum foundation to continue his work to full-fledged solution which is now Uniswap. 
+Uniswap is a protocol for decentralized exchange of crypto currencies. Uniswap was founded by Hayden Adams. Inspired by Vitalik Buterin's [reddit post](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) a few years ago, Hayden attempted to get his hands dirty to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool as opposed to counter party order books typically seen on centralized exchanges.
 
-Uniswap consists of a set of smart contracts deployed on Ethereum network. That means entire process takes place on-chain and there is no centralization, and no fees going to any of the founders.
+Subsequently Hayden received a grant from Ethereum foundation to continue his work to full-fledged Decentralized Exchange (DEX) platform which is now Uniswap. 
 
-Uniswap was funded by Ethereum foundation, investments from  venture capital firms including Andreessen Horowitz, Paradigm Venture Capital, Union Square Ventures LLC and ParaFi.
+Uniswap consists of a set of smart contracts deployed on Ethereum network. That means entire process takes place on-chain and there is no centralization, and no fees going to any of the founders or third parties.
+
+Uniswap was *funded* by Ethereum foundation, investments from  venture capital firms including Andreessen Horowitz, Paradigm Venture Capital, Union Square Ventures LLC and ParaFi.
 
 Hayden received ~$11M series-A funding.
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the project trying to solve?
 
- 
-
-
-Traditional finance is being disrupted by blockchain to Decentralized finance (DeFi) that doesn’t rely on central financial intermediaries (brokerages, exchanges, banks). 
-Uniswap is one of the core products in the DeFi ecosystem. Uniswap is a decentralized crypto exchange (DEX). Uniswap’s DEX challenges traditional order-book based method used by most centralized exchanges. Prices for token swaps are decided by a deterministic algorithm, called an automated market maker (AMM) which automatically sets and balances the pricing for a pair depending on the demand for a token and the available liquidity of each of the tokens in a pool.
+ Traditional finance is being disrupted by blockchain and is rapidly evolving to **Decentralized Finance (DeFi)** that doesn’t rely on central financial intermediaries (brokerages, exchanges, banks etc.). 
+Uniswap is one of the core products in the DeFi revolution. Uniswap is a **decentralized crypto exchange (DEX)**. Uniswap’s DEX challenges traditional order-book based pricing method used by most centralized exchanges. When tokens are swapped, prices are decided by a **deterministic algorithm, called an automated market maker (AMM)** which automatically balances the pricing for a token pair depending on the demand and the available liquidity of each of the tokens in a pool.
 
 DEX aims to solve problems of centralized exchange such as mismanagement, risk of hacking and arbitrary fees. However, DEX may mot have enough liquidity to make trading faster and efficient. 
 Uniswap solves the liquidity issue by swapping tokens without the use of order books that means without relying on buyers and sellers creating that liquidity. 
 
-Unlike most centralized exchanges, which match buyers and sellers to determine prices and execute trades, Uniswap uses a simple math equation and pools of tokens and ETH to determine the price and execute trades.
+Unlike most centralized exchanges, which match buyers and sellers to determine prices and execute trades, Uniswap uses a simple math equation (deterministic algorithm) and pools of tokens and ETH (Ethereum token) to determine the price and execute trades.
 Uniswap pricing mechanism is called “Constant Product Market Maker Model”, where product of liquidity of two tokens under trade, always remain same, hence the name “Constant Product..”. 
-Beauty of this model is, it can always provide liquidity no matter how large the order size or how small the liquidity pool. The model asymptotically increases the price (premium) of the coin as the desired quantity increases.
-The premiums makes large orders (whale orders) prohibitively expensive. Pricing mechanism bid/ask spreads typically found in centralized and regulated exchanges. 
+Beauty of this model is, it ensures liquidity all the time, no matter how large the order size or how small the liquidity pool is. The model **asymptotically** increases the price of the token as the desired quantity increases. The premiums makes large orders (whale orders) prohibitively expensive. Pricing mechanism reduces *bid/ask spreads* typically found in centralized and regulated exchanges. 
 
-Uniswap is developed for the community to trade tokens without platform fee or any other middlemen. 
-
+Uniswap is developed for the community to trade tokens without platform fee and without involvement of any  middlemen. 
 
 
-Features of Uniswap
+
+* Features of Uniswap
 Uniswal has 2 major features known as Swap and Pool:
 Swap: allows users to swap between Ethereum (ETH) and different ERC-20 tokens.
 Pool: allows users to earn by providing liquidity. This is done by depositing tokens into a smart contract and the depositor will receive pool tokens in return.
