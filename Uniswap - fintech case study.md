@@ -4,13 +4,13 @@
 
 * Name of project: **UNISWAP**
 
-* When was the project launched? 2018
+* When was the project launched? **2018**
 
-* Who are the founders of the company? Hayden Adams
+* Who are the founders of the company? **Hayden Adams**
 
 * How did the idea for the company (or project) come about and how was it funded? 
 
-Uniswap is a protocol for decentralized exchange of crypto tokens. Uniswap was founded by Hayden Adams. Inspired by one of Vitalik Buterin, reddit posts a few years ago, Hayden initially sought to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool. This contrasts with the order books we typically see on centralized exchanges.
+Uniswap is a protocol for decentralized exchange of crypto currencies. Uniswap was founded by Hayden Adams. Inspired by Vitalik Buterin's [reddit post](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) a few years ago, Hayden initially sought to gain some solidity practice. His solidity training experience turned into a proof of concept for an on-chain automated market maker (AMM) protocol. AMM determine price of a crypto based on the ratio of two cryptos within a pool. This contrasts with the order books we typically see on centralized exchanges.
 Subsequently Hayden received a grant from Ethereum foundation to continue his work to full-fledged solution which is now Uniswap. 
 
 Uniswap consists of a set of smart contracts deployed on Ethereum network. That means entire process takes place on-chain and there is no centralization, and no fees going to any of the founders.
